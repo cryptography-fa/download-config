@@ -9,7 +9,10 @@
 # $ cd download-config
 # $ sh requests.sh
 # $ sh config.sh
-![sf](https://user-images.githubusercontent.com/41493567/62817931-2b948c00-bb3f-11e9-9567-b647b81bce7a.png)
+![1](https://user-images.githubusercontent.com/41493567/62837173-855b9a00-bc96-11e9-81c8-d1703c6add54.png)
 
-![ps](https://user-images.githubusercontent.com/41493567/62817926-0a33a000-bb3f-11e9-9f94-10e7d31f8c37.png)
+![10](https://user-images.githubusercontent.com/41493567/62837182-9d331e00-bc96-11e9-8a87-7ce80552b560.png)
+
+
+
 
